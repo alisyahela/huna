@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^9.6",
+        "warifp/nd-captcha": "^1.1",
+        "kyranrana/cloudflare-bypass": "^3.4",
+        "stripe/stripe-php": "^7.122"
+    }
+}
